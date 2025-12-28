@@ -1,0 +1,30 @@
+name: nonstationary-flood-risk-framework
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - geopandas
+  - rasterio
+  - xarray
+  - rioxarray
+  - matplotlib
+  - jupyter
+  - pyproj
+  - shapely
+
+If you use pip:
+
+Create requirements.txt (example):
+
+numpy
+pandas
+geopandas
+rasterio
+xarray
+rioxarray
+matplotlib
+jupyter
+pyproj
+shapely
