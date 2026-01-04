@@ -62,7 +62,7 @@ See docs/assumptions-limitations.md.
 Citation
 
 If you use or adapt this workflow, please cite:
-Bates, Zed. 2026 Severe Storm Frequency → Flood Risk → Vulnerability: Replicable Workflow. GitHub repository.
+Bates, Zed. 2026. Non-Stationary Flood Risk Framework. GitHub repository.
 (See CITATION.cff for BibTeX.)
 
 Contact / collaboration

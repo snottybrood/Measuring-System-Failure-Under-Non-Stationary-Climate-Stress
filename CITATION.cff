@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+
+title: "Non-Stationary Flood Risk Framework"
+
+message: >
+  If you use this framework, code, or documentation in academic work,
+  policy analysis, planning documents, or derivative research,
+  please cite it as follows.
+
+authors:
+  - family-names: Bates
+    names: Zed
+    affiliation: Black Lattice, LLC, Climate Sanctuary, Harvesting Humanity
+
+   
+version: 0.1.0
+
+date-released: 2026-01-05
+
+repository-code: https://github.com/snottybrood/nonstationary-flood-risk-framework
+
+license: MIT
+
+keywords:
+  - flood risk
+  - extreme rainfall
+  - climate non-stationarity
+  - disaster risk
+  - environmental justice
+  - storm frequency
+  - hazard mitigation
+
+preferred-citation:
+  type: software
+  authors:
+    - family-names: Bates
+    - names: Zed
+  title: "Non-Stationary Flood Risk Framework"
+  year: 2026
+  version: 0.1.0
+  url: https://github.com/snottybrood/nonstationary-flood-risk-framework
+  license: MIT

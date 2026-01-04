@@ -1,6 +1,6 @@
 # Assumptions and Limitations
 
-This document outlines the key assumptions underlying the storm-frequency–driven flood exposure framework and the limitations that should be considered when interpreting results.
+This document outlines the key assumptions underlying the non-stationary flood risk rramework and the limitations that should be considered when interpreting results.
 
 These assumptions are stated explicitly to support transparent, responsible, and ethical use of the analysis.
 
