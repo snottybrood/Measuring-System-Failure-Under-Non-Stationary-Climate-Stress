@@ -1,0 +1,2 @@
+state_fips,tiger_year,floodplain_path,tracts_local_path,acs_csv,target_crs,people_per_dot
+37,2020,C:\Users\admin\Documents\GitHub\nonstationary-flood-risk-framework\data\raw\floodplain_hazard.gdb,C:\Users\admin\Documents\GitHub\nonstationary-flood-risk-framework\data\raw\tracts_37_2020.gpkg,C:\Users\admin\Documents\GitHub\nonstationary-flood-risk-framework\data\processed\acs_tract_37_2020.csv,EPSG:5070,500
