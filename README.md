@@ -1,12 +1,54 @@
-Non-Stationary Flood Risk Framework
 
-A replicable workflow linking severe rainfall frequency, flood risk context, and social vulnerability for hazard and equity analysis.
+## The Black Lattice Method
 
-Overview
+Most climate risk systems ask:
+> *Where might something happen?*
 
-This repository provides a transparent, reproducible workflow for quantifying how the frequency of severe rainfall events is changing over time, where those changes are occurring, and how they intersect with social vulnerability relevant to flood impacts.
+Black Lattice asks:
+> *How often are systems being pushed into failure?*
 
-Rather than relying on stationary return periods, the framework focuses on observed and projected changes in event frequency, preserving empirical clarity while supporting applied risk analysis.
+This work focuses on **non-stationary climate conditions** — where historical assumptions no longer hold — and builds methods to measure:
+
+- the **rate at which environmental stress exceeds system capacity**
+- the **frequency of threshold failure** (not just probability of hazard)
+- the **distribution of that failure across populations**
+
+The unit of climate harm is not inches of rain.  
+It is how often infrastructure, policy, and communities are forced beyond recovery thresholds.
+
+---
+
+## Why This Matters
+
+Flood maps, hazard standards, and planning frameworks are still largely built on **stationary assumptions**.
+
+Reality is not.
+
+That gap produces:
+- repeated disaster in “low-risk” areas  
+- mispriced insurance and delayed recovery  
+- infrastructure designed for conditions that no longer exist  
+- disproportionate exposure for vulnerable communities  
+
+This is not just a modeling issue.  
+It is a **governance failure embedded in measurement systems**.
+
+---
+
+## What This Repository Represents
+
+This is a working body of systems, pipelines, and analyses that explore:
+
+- Climate data as a **system-stress generator** (CORDEX, PRISM, NOAA)
+- Spatial data infrastructures as **decision architectures**
+- Environmental justice as a **distribution of system failure**
+- Data pipelines that translate raw environmental signals into **policy-relevant insight**
+
+Each project here is part of a larger question:
+
+> *What happens when reality moves faster than the systems designed to measure it?*
+
+---
 
 Who this is for
 
@@ -47,29 +89,6 @@ Exposure and vulnerability overlays using census-derived metrics
 
 Tables and maps suitable for analysis, reporting, and decision support
 
-Repository structure
-nonstationary-flood-risk-framework/
-├── notebooks/
-│   ├── 00_overview.ipynb
-│   ├── 01_prism_precip_ingest.ipynb
-│   ├── 02_prism_extremes_analysis.ipynb
-│   ├── 03_epoch_comparison.ipynb
-│   ├── 04_cordex_future_frequency.ipynb
-│   ├── 05_exposure_vulnerability.ipynb
-│   └── 06_flood_probability_context.ipynb
-├── data/
-│   ├── raw/        # user-provided datasets (not redistributed)
-│   └── sample/     # lightweight demo inputs
-├── outputs/
-│   ├── tables/
-│   └── maps/
-├── docs/
-│   ├── method-card.md
-│   ├── data_dictionary.md
-│   └── assumptions-limitations.md
-├── environment.yml
-├── requirements.txt
-└── CITATION.cff
 
 Quickstart (runs with sample data)
 1. Create the environment
