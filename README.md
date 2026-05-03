@@ -1,5 +1,5 @@
 
-## The Black Lattice Method
+## Black Lattice Method: Measuring System Failure Under Non-Stationary Climate Stress
 
 Most climate risk systems ask:
 > *Where might something happen?*
