@@ -1,39 +1,13 @@
 
 ## Black Lattice Method: Measuring System Failure Under Non-Stationary Climate Stress
 
-Most climate risk systems ask:
-> *Where might something happen?*
-
-Black Lattice asks:
-> *How often are systems being pushed into failure?*
-
 This work focuses on **non-stationary climate conditions** — where historical assumptions no longer hold — and builds methods to measure:
 
-- the **rate at which environmental stress exceeds system capacity**
-- the **frequency of threshold failure** (not just probability of hazard)
-- the **distribution of that failure across populations**
+Most climate risk systems are still built on a static question: where might flooding happen? That assumption is breaking. Black Lattice reframes climate risk around a more urgent reality: how often environmental stress is already pushing infrastructure, policy, and communities past their ability to recover. In a non-stationary climate, risk is not a fixed probability; it is a moving threshold of system failure.
 
-The unit of climate harm is not inches of rain.  
-It is how often infrastructure, policy, and communities are forced beyond recovery thresholds.
+This framework translates shifting climate signals into measurable stress and failure dynamics, exposing when traditional risk models underestimate exposure, misprice resilience, and misguide investment. It moves beyond hazard prediction toward system-level vulnerability under real-world change.
 
----
-
-## Why This Matters
-
-Flood maps, hazard standards, and planning frameworks are still largely built on **stationary assumptions**.
-
-Reality is not.
-
-That gap produces:
-- repeated disaster in “low-risk” areas  
-- mispriced insurance and delayed recovery  
-- infrastructure designed for conditions that no longer exist  
-- disproportionate exposure for vulnerable communities  
-
-This is not just a modeling issue.  
-It is a **governance failure embedded in measurement systems**.
-
----
+The result is a new class of climate intelligence: not just mapping risk, but revealing when systems are quietly exceeding their design limits.
 
 ## What This Repository Represents
 
@@ -46,7 +20,7 @@ This is a working body of systems, pipelines, and analyses that explore:
 
 Each project here is part of a larger question:
 
-> *What happens when reality moves faster than the systems designed to measure it?*
+*What happens when reality moves faster than the systems designed to measure it?*
 
 ---
 
