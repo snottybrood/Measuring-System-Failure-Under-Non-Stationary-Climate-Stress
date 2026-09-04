@@ -1,11 +1,11 @@
 
 ## Black Lattice Method: Measuring System Failure Under Non-Stationary Climate Stress
 
-This work focuses on **non-stationary climate conditions** — where historical assumptions no longer hold — and builds methods to measure:
+This work focuses on **non-stationary climate conditions**. Where historical assumptions no longer hold and builds methods to measure:
 
 Most climate risk systems are still built on a static question: where might flooding happen? That assumption is breaking. Black Lattice reframes climate risk around a more urgent reality: how often environmental stress is already pushing infrastructure, policy, and communities past their ability to recover. In a non-stationary climate, risk is not a fixed probability; it is a moving threshold of system failure.
 
-This framework translates shifting climate signals into measurable stress and failure dynamics, exposing when traditional risk models underestimate exposure, misprice resilience, and misguide investment. It moves beyond hazard prediction toward system-level vulnerability under real-world change.
+This framework translates shifting climate signals into measurable stress and failure dynamics, exposing when traditional risk models underestimate exposure, "misprice" resilience, and misguide investment. It moves beyond hazard prediction toward system-level vulnerability under real-world change.
 
 The result is a new class of climate intelligence: not just mapping risk, but revealing when systems are quietly exceeding their design limits.
 
